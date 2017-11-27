@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d26d9e23-d7dd-46f6-a17f-029a28a9ac89" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/seleniumTestOne.java" afterPath="$PROJECT_DIR$/src/seleniumTestOne.java" />
-    </list>
+    <list default="true" id="d26d9e23-d7dd-46f6-a17f-029a28a9ac89" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -83,28 +81,6 @@
             <path>
               <item name="TestAutomation" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnjavafordummies" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnjavafordummies" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnjavafordummies" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnjavafordummies" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnjavafordummies" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="seleniumTestOne.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="TestAutomation" type="b2602c69:ProjectViewProjectNode" />
